@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Information Retrieval System 📚 
 
 A smart document query system that uses TF-IDF and semantic search to find relevant information from multiple PDF documents.
@@ -98,3 +99,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+=======
+
+>>>>>>> 1a15db993b9e4f6b14a008bffae681307ddd8f9f
